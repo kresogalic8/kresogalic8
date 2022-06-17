@@ -1,6 +1,6 @@
 ### Hey, I'm Krešimir! 👋
 
-🤓 Lead frontend developer at [@Serapion] <br>
+🤓 CEO at [@FrontTribe] <br>
 🇭🇷 Born in Osijek, Croatia
 
 ### More about me 👨‍💻
