@@ -1,6 +1,6 @@
 ### Hey, I'm Krešimir! 👋
 
-🤓 CEO at [@FrontTribe] <br>
+🤓 Frontend engineer (Angular, React, React Native) <br>
 🇭🇷 Born in Osijek, Croatia
 
 ### More about me 👨‍💻
