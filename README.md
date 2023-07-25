@@ -1,6 +1,6 @@
 ### Hey, I'm Krešimir! 👋
 
-🤓 Frontend engineer (Angular, React, React Native) <br>
+🤓 Frontend engineer <br>
 🇭🇷 Born in Osijek, Croatia
 
 ### More about me 👨‍💻
